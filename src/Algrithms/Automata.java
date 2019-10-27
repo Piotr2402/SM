@@ -6,7 +6,7 @@ public class Automata {
 
 	public static void main( String[] args ) {
     	Scanner in = new Scanner(System.in,"utf-8");
-    	
+    	//
     	String alph = in.nextLine();
     	String text = in.nextLine();
     	String pattern = in.nextLine();
